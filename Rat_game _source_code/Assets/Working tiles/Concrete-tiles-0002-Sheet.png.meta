@@ -1,0 +1,881 @@
+fileFormatVersion: 2
+guid: 4d746ac32e7f0f14e851afc4c358eb3d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: working tile corner
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 513
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955be692ac1e4034aae7ee44916753d4
+      internalID: -705185524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: working tile top
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 513
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d466080491458e40bb6a10cefa9f1ed
+      internalID: -843307680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 513
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe160416ec65de489de715a4aaf3b3d
+      internalID: -5835125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: test1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 513
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53aa82790788174f9f625c3b88345e0
+      internalID: 954697831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Working tile side
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 465
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2dd606c564e10418e290d86b80baff
+      internalID: -604818378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 465
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b183d15c3b624478e1ed7baa37c257
+      internalID: -1959627151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3051067c890e79444a59c6b1b8ee293c
+      internalID: -384249824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 399
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c1ed53b62efeb4084120fe764111e4
+      internalID: -9726173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 399
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b50b1cc6ed6174ca43c4e219799915
+      internalID: 1600966362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e1acb47fa4d5e419a8cfd65ae605ac
+      internalID: 1746795536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 351
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e800eeb76f6f5c34a8f69c0cde626d97
+      internalID: -1359060945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 351
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57fdfc1267609344a80991886df92d7
+      internalID: 549516226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 351
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfb55be41aeb1d4692a9620b496a57a
+      internalID: 684280581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 351
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e250f2619f003674f86ac01dd7600882
+      internalID: -236286847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b3b1c8d963e2840baa6ccca4865330
+      internalID: -1897560736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09076721c035c0f488525013149c43ef
+      internalID: 714212245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910934e97d5ac62468b07fe2a2b5b3a0
+      internalID: -1691617450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed91cffce2b54b1469609c78029c29d4
+      internalID: 2059805798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13955094faa72b64baac019eaca2d67b
+      internalID: -2000052793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c971576e38be05d48b0c27f055393548
+      internalID: 1215588362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2456f1fe21653844590edc9c6653c7f3
+      internalID: 530214911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 186
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e456627f9f7b7b14a912d53293493253
+      internalID: -1986905924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e8ea6006ccc32439480c7431d22907
+      internalID: -1553346297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53530c2bd615312419a48127575189d4
+      internalID: 1209548268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a296c41bef927c46ba8c65d540f5b94
+      internalID: 1957136312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 105
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b1d0565b000a4ab2554fb39908556
+      internalID: -1642534374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c21ac6db24a4a449c776843b79cd1a
+      internalID: -386457393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96890e7b94b5914fa4589c533871c4c
+      internalID: 1313796065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425a1e4945df9f14e99a4549619f8c4a
+      internalID: -1218912880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 102
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371f460bf7ac93e40830683ff8a68ffb
+      internalID: 2121356391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4067f2315c64b48af90efd8b3652c9
+      internalID: -303772719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete-tiles-0002-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 9
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dc4cfe98367524683c4add9555649c
+      internalID: -1895118504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Concrete-tiles-0002-Sheet_62: 1072417507
+      Concrete-tiles-0002-Sheet_60: 1944790041
+      working tile corner: -705185524
+      Concrete-tiles-0002-Sheet_28: 310085672
+      Concrete-tiles-0002-Sheet_32: 960622481
+      Concrete-tiles-0002-Sheet_37: 1529384027
+      Concrete-tiles-0002-Sheet_45: 530214911
+      Concrete-tiles-0002-Sheet_53: 870574076
+      Concrete-tiles-0002-Sheet_75: 2121356391
+      Concrete-tiles-0002-Sheet_12: -9726173
+      Concrete-tiles-0002-Sheet_66: 1957136312
+      Concrete-tiles-0002-Sheet_39: -1691617450
+      Concrete-tiles-0002-Sheet_43: 1215588362
+      test2: -5835125
+      Concrete-tiles-0002-Sheet_58: 460645525
+      working tile top: -843307680
+      Concrete-tiles-0002-Sheet_38: 922911791
+      Concrete-tiles-0002-Sheet_61: 174631619
+      Concrete-tiles-0002-Sheet_11: 810955643
+      Concrete-tiles-0002-Sheet_70: 1313796065
+      Concrete-tiles-0002-Sheet_77: -596859357
+      Concrete-tiles-0002-Sheet_18: 543145370
+      Concrete-tiles-0002-Sheet_44: 2133241906
+      Concrete-tiles-0002-Sheet_81: -1895118504
+      Concrete-tiles-0002-Sheet_0: -2129072813
+      Concrete-tiles-0002-Sheet_3: -1227450285
+      Concrete-tiles-0002-Sheet_41: 2059805798
+      Concrete-tiles-0002-Sheet_33: 1776571491
+      Concrete-tiles-0002-Sheet_67: 1008603162
+      Working tile side: -604818378
+      Concrete-tiles-0002-Sheet_69: -386457393
+      Concrete-tiles-0002-Sheet_82: 1574897056
+      Concrete-tiles-0002-Sheet_8: 345274801
+      Concrete-tiles-0002-Sheet_74: -1507729706
+      Concrete-tiles-0002-Sheet_16: 722193918
+      Concrete-tiles-0002-Sheet_71: -823721397
+      Concrete-tiles-0002-Sheet_59: -1536884437
+      Concrete-tiles-0002-Sheet_30: 989822843
+      Concrete-tiles-0002-Sheet_2: -1916212727
+      Concrete-tiles-0002-Sheet_76: 2102246624
+      Concrete-tiles-0002-Sheet_25: 1073145135
+      Concrete-tiles-0002-Sheet_79: -303772719
+      Concrete-tiles-0002-Sheet_34: 1901445640
+      Concrete-tiles-0002-Sheet_13: 1968280424
+      Concrete-tiles-0002-Sheet_78: 584271491
+      Concrete-tiles-0002-Sheet_42: -2000052793
+      Concrete-tiles-0002-Sheet_80: -898422146
+      Concrete-tiles-0002-Sheet_19: -1359060945
+      Concrete-tiles-0002-Sheet_40: -1911866929
+      Concrete-tiles-0002-Sheet_72: -1218912880
+      Concrete-tiles-0002-Sheet_54: 400880475
+      Concrete-tiles-0002-Sheet_7: -1959627151
+      Concrete-tiles-0002-Sheet_31: -158339645
+      Concrete-tiles-0002-Sheet_55: 1145170956
+      Concrete-tiles-0002-Sheet_1: 1327185678
+      Concrete-tiles-0002-Sheet_47: -420988272
+      Concrete-tiles-0002-Sheet_56: -643158842
+      Concrete-tiles-0002-Sheet_48: -2015603652
+      Concrete-tiles-0002-Sheet_46: -172248455
+      Concrete-tiles-0002-Sheet_35: -792264499
+      Concrete-tiles-0002-Sheet_20: 549516226
+      Concrete-tiles-0002-Sheet_9: 2055294285
+      Concrete-tiles-0002-Sheet_10: -384249824
+      Concrete-tiles-0002-Sheet_26: 187438626
+      Concrete-tiles-0002-Sheet_50: -1986905924
+      Concrete-tiles-0002-Sheet_49: 2020862741
+      test1: 954697831
+      Concrete-tiles-0002-Sheet_63: 1209548268
+      Concrete-tiles-0002-Sheet_57: -1553346297
+      Concrete-tiles-0002-Sheet_6: 1334980302
+      Concrete-tiles-0002-Sheet_64: 1708394527
+      Concrete-tiles-0002-Sheet_17: 594590366
+      Concrete-tiles-0002-Sheet_24: -1897560736
+      Concrete-tiles-0002-Sheet_15: 1746795536
+      Concrete-tiles-0002-Sheet_51: 1317904807
+      Concrete-tiles-0002-Sheet_21: 885217668
+      Concrete-tiles-0002-Sheet_52: 1805602029
+      Concrete-tiles-0002-Sheet_29: -493204333
+      Concrete-tiles-0002-Sheet_36: 614985092
+      Concrete-tiles-0002-Sheet_73: -144302819
+      Concrete-tiles-0002-Sheet_14: 1600966362
+      Concrete-tiles-0002-Sheet_65: 1700774820
+      Concrete-tiles-0002-Sheet_27: 714212245
+      Concrete-tiles-0002-Sheet_23: -236286847
+      Concrete-tiles-0002-Sheet_68: -1642534374
+      Concrete-tiles-0002-Sheet_22: 684280581
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

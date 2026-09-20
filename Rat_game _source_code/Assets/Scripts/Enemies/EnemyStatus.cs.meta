@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81ca8dc245d1fe34589ba8d7e2b1c979
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - popupManager: {instanceID: 0}
+  - coin: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
